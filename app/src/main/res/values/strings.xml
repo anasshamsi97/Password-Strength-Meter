@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password Strength Meter</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="weak">Weak</string>
+    <string name="medium">Medium</string>
+    <string name="strong">Strong</string>
+    <string name="very_strong">Very Strong</string>
+</resources>
